@@ -1,0 +1,20 @@
+
+# Private chatbot memory and database
+chatbot_memory.db
+chatbot_memory_backup.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated application files
+build/
+dist/
+*.exe
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
